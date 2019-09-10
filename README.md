@@ -1,6 +1,8 @@
 # WebExtension React Example - POC
-A minimal example to demonstrate the [window/this issue](https://github.com/facebook/react/issues/16606).
+A minimal example to demonstrate the 'window vs this' [issue](https://github.com/facebook/react/issues/16606).
+
 Run `npm run build` to build the WebExtension.
+
 In Firefox:
 1. type `about:debugging`
 2. Click 'Load Temporary Add-On'
